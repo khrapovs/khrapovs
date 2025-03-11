@@ -4,6 +4,8 @@
 
 [**Full Resume**](https://khrapovs.github.io/_static/Stanislav_Khrapov_CV.pdf)
 
+<!--intro-start-->
+
 My name is Stanislav Khrapov.
 I am a full stack Machine Learning engineer with many years of experience building data science applications starting from data ingestion, modelling, and finishing with cloud deployment and monitoring services.
 I am passionate about data, automation, code quality, visualisation, and communicating with both technical and non-technical stakeholders.
@@ -34,3 +36,5 @@ During graduate education and work experience that includes both academic and in
 
 On the personal level I run :runner: and swim :swimmer: a lot, bike occasionally :bicyclist: (no triathlon, please!).
 You can join me in this passion on [Strava](https://www.strava.com/athletes/6131284).
+
+<!--intro-end-->
