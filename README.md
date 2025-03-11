@@ -32,5 +32,5 @@ My area of specialization was financial econometrics, option pricing, volatility
 During graduate education and work experience that includes both academic and industry positions I wrote research papers individually and in collaboration.
 Research topics include but not limited to estimation of multivariate volatility and density models, evaluation of option pricing models, term structure of volatility risk premium, volatility forecasting.
 
-On the personal level I run :runner: and swim a lot, bike occasionally (no triathlon, please!).
+On the personal level I run :runner: and swim :swimming_man: a lot, bike occasionally :bicyclist: (no triathlon, please!).
 You can join me in this passion on [Strava](https://www.strava.com/athletes/6131284).
