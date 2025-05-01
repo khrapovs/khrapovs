@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khrapovs/)
 
-[**Full Resume**](https://khrapovs.github.io/_static/Stanislav_Khrapov_CV.pdf)
+[**Full Resume**](https://khrapovs.github.io/Stanislav_Khrapov_CV.pdf)
 
 <!--intro-start-->
 
